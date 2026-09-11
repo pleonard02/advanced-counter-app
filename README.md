@@ -1,5 +1,3 @@
-Absolutely. Here’s a clean README that documents the project, the features you actually implemented, the tech stack, and how to run it.
-
 # Advanced Counter App
 
 A React and TypeScript counter application built to practice managing state with `useState` and side effects with `useEffect`. The app extends a basic counter with count history, customizable step values, keyboard controls, automatic local storage saving, and reset functionality.
